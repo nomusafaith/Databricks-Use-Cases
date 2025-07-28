@@ -77,17 +77,6 @@ A data science project to assess and predict gallstone risk using clinical featu
 * **Medium Risk (🟡 30–70%)** → Diet counseling & 6‑month follow-up
 * **Low Risk (🟢 <30%)** → General wellness advice annually
 
----
-
-## ⚙️ How to Use This Notebook
-
-1. Clone repository and open the notebook in Databricks.
-2. Verify table path: `personal_catalog.gallstone_risk_prediction.gallstone_data`
-3. Run cells in order—from loading data to visual analysis, hypothesis testing, and SQL model.
-4. Adjust thresholds and model parameters as needed for your organization.
-5. Export results or risk scores for downstream reporting or dashboards.
-
----
 
 ## 📌 Summary
 
